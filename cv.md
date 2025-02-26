@@ -46,7 +46,7 @@ for (int i = 0; i < myArray.GetLength(0); i++)
 ```
 ## Work experience:
 
-At the moment, I have ~~~no~~~ completed projects, but I am actively developing my skills through educational projects. As my first project, I am considering my resume (CV).
+At the moment, I have ~~no~~ completed projects, but I am actively developing my skills through educational projects. As my first project, I am considering my resume (CV).
 
 ## Courses:
 
