@@ -58,4 +58,4 @@ English proficiency level - B1.
 
 ## My photo:
 
-![Avatar](./)
+![Avatar](./i.webp)
