@@ -44,3 +44,18 @@ for (int i = 0; i < myArray.GetLength(0); i++)
     Console.WriteLine();
 }
 ```
+## Work experience:
+
+At the moment, I have ~~~no~~~ completed projects, but I am actively developing my skills through educational projects. As my first project, I am considering my resume (CV).
+
+## Courses:
+
+I have completed various free mini-courses on C#, JavaScript.
+
+## English level:
+
+English proficiency level - B1.
+
+## My photo:
+
+![Avatar](./)
