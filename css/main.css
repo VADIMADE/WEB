@@ -168,3 +168,34 @@ h1 {
   width: 25px;
   margin-right: 10px;
 }
+
+/* carousel-section */
+
+.carousel-section {
+  width: 100%;
+  height: 180px;
+  margin-bottom: 98px;
+  background-color: rgb(234, 229, 255);
+}
+
+.main-container-carousel-sec {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 230px;
+  background-color: transparent;
+  padding-top: 65px;
+}
+
+.swipe-img-carousel-sec {
+  width: 110px;
+  height: 49px;
+  background: transparent;
+}
+
+.webflow-img-carousel-sec {
+  width: 140px;
+  height: 35px;
+  background: transparent;
+}
