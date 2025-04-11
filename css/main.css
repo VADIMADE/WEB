@@ -1238,3 +1238,138 @@ h1 {
   margin-left: 20px;
   margin-top: 25px;
 }
+
+/* contact-section */
+
+.contact-section {
+  width: 100%;
+  margin-bottom: 127px;
+}
+
+.main-container-contact-sec {
+  width: 1340px;
+  margin-left: 50px;
+  position: relative;
+}
+
+.title-container-contact-sec {
+  display: flex;
+}
+
+.title-contact-sec {
+  font-family: Poppins;
+  font-size: 70px;
+  color: #1a1930;
+  margin-left: 20px;
+  margin-bottom: 45px;
+  position: relative;
+  z-index: 1;
+}
+
+.image1-contact-sec {
+  position: absolute;
+  top: -25px;
+  left: -50px;
+  z-index: 0;
+}
+
+.description-container-contact-sec {
+  width: 1320px;
+  margin-left: 10px;
+  display: flex;
+}
+
+.text-container-contact-sec {
+  display: flex;
+  height: 120px;
+  margin-top: 342px;
+  margin-left: 24px;
+}
+
+.star-image {
+  width: 10px;
+  height: 10px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
+.text1-contact-sec {
+  font-family: Prompt;
+  font-size: 18px;
+  color: #2d2b5c;
+  line-height: 1.46;
+}
+
+.text2-contact-sec {
+  font-family: Prompt;
+  font-size: 18px;
+  color: #abaabb;
+  margin-top: 17px;
+}
+
+.form-container-contact-sec {
+  width: 640px;
+  margin-left: 177px;
+  position: relative;
+}
+
+.image2-contact-sec {
+  position: absolute;
+  z-index: 0;
+  right: -60px;
+  top: -5px;
+}
+
+.form-group {
+  margin-bottom: 16px;
+  position: relative;
+  z-index: 1;
+}
+
+label {
+  font-family: Prompt;
+  font-size: 18px;
+  color: #2d2b5c;
+  display: block;
+}
+
+input {
+  width: 608px;
+  border: 2px solid rgba(255, 255, 255, 0.408);;
+  background-color: rgba(233, 232, 232, 0.408);
+  border-radius: 4px;
+  font-family: Prompt;
+  font-size: 18px;
+  color: #c1c1c1;
+  margin-top: 7px;
+  padding: 15px 0px 14px 30px;
+  box-shadow: 0px 0px 5px #adadad;
+}
+
+textarea {
+  width: 608px;
+  background-color: rgba(233, 232, 232, 0.408);
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  font-family: Prompt;
+  font-size: 18px;
+  color: #c1c1c1;
+  margin-top: 14px;
+  padding: 15px 0px 25px 30px;
+  box-shadow: 0px 0px 5px #adadad;
+}
+
+.submit-btn {
+  font-family: Prompt;
+  width: 100%;
+  background-color: #6259EA;
+  font-size: 18px;
+  text-align: center;
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 16px;
+  margin-top: 30px;
+}
