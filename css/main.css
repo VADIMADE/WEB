@@ -412,3 +412,35 @@ h1 {
   margin-left: 20px;
   line-height: 1.2;
 }
+
+/* video-section */
+
+.video-section {
+  width: 100%;
+  margin-bottom: 152px;
+}
+
+.main-container-video-sec {
+  width: 1340px;
+  margin-left: 50px;
+}
+
+.container-video-sec-title {
+  width: 1300px;
+  margin-left: 20px;
+  margin-bottom: 85px;
+}
+
+.video-sec-title-text {
+  font-family: Poppins;
+  font-size: 44px;
+  color: #2d2b5c;
+  line-height: 1.1;
+  width: 473px;
+}
+
+.container-video-sec-img {
+  width: 1300px;
+  height: 730px;
+  margin-left: 20px;
+}
