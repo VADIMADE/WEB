@@ -180,7 +180,7 @@ h1 {
   background-color: rgb(234, 229, 255);
 }
 
-.main-container-carousel-sec {
+.carousel-sec-main-container {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -190,13 +190,13 @@ h1 {
   padding-top: 65px;
 }
 
-.swipe-img-carousel-sec {
+.carousel-sec-swipe-img {
   width: 110px;
   height: 49px;
   background: transparent;
 }
 
-.webflow-img-carousel-sec {
+.carousel-sec-webflow-img {
   width: 140px;
   height: 35px;
   background: transparent;
