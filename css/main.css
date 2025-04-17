@@ -27,26 +27,28 @@ header {
   z-index: 2;
 }
 
-.container-nav-logo {
+.header-nav-logo-container {
   width: 111px;
   height: 49px;
   text-align: center;
 }
 
-.nav-logo {
+.header-nav-logo {
   width: 111px;
   height: 49px;
 }
 
-.container-nav {
-  width: 630px;
+.header-nav-list {
   display: flex;
-  justify-content: space-between;
-  text-align: center;
-  align-items: center;
+  list-style: none;
+  margin-left: 25px;
 }
 
-.container-nav a {
+.header-nav-list-item {
+  margin-right: 25px;
+}
+
+.header-nav-list-link {
   font-family: Prompt;
   font-size: 18px;
   color: #1a1930;
@@ -57,7 +59,7 @@ a {
   text-decoration: none;
 }
 
-.nav-button {
+.header-nav-button {
   font-family: Poppins;
   width: 139px;
   height: 60px;
