@@ -209,7 +209,7 @@ h1 {
   margin-bottom: 143px;
 }
 
-.main-container-about-sec {
+.about-sec-main-container {
   width: 1320px;
   margin-left: 60px;
   display: flex;
@@ -217,13 +217,13 @@ h1 {
   position: relative;
 }
 
-.image-about-sec {
+.about-sec-image {
   position: absolute;
   left: -60px;
   top: -195px;
 }
 
-.container-about-sec-found {
+.about-sec-found-container {
   width: 500px;
   line-height: 1.2;
   padding-left: 10px;
@@ -243,12 +243,12 @@ h1 {
   color: #2d2b5c;
 }
 
-.container-about-sec-info {
+.about-sec-info-container {
   width: 770px;
   margin-top: 70px;
 }
 
-.container-about-sec-info-block {
+.about-sec-info-block-container {
   width: 750px;
   height: 172px;
   display: flex;
@@ -256,7 +256,7 @@ h1 {
   margin-left: 10px;
 }
 
-.container-about-sec-info-first-text {
+.about-sec-info-text-container {
   width: 450px;
   height: 112px;
   margin-top: 30px;
@@ -278,7 +278,7 @@ h1 {
   color: #2d2b5c;
 }
 
-.container-about-sec-info-first-number {
+.about-sec-info-number-container {
   width: 224px;
   height: 112px;
   margin-top: 30px;
