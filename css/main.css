@@ -1209,16 +1209,11 @@ textarea {
 .smedia-sec-decription-container {
   max-width: 1380px;
   display: flex;
+  justify-content: center;
   align-items: center;
 }
 
-/* .smedia-sec-switch {
-  width: 85px;
-  height: 85px;
-} */
-
 .smedia-sec-photo {
-  /* width: 1200px; */
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;

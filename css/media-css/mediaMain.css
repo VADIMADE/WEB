@@ -21,6 +21,29 @@
 }
 
 @media (max-width: 1220px) {
+  /* carousel-section */
+
+  .carousel-section {
+    padding: 40px 0;
+  }
+
+  .carousel-section .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 130px;
+  }
+
+  .carousel-sec-swipe-img {
+    width: 66px;
+    height: 29px;
+  }
+
+  .carousel-sec-webflow-img {
+    width: 84px;
+    height: 21px;
+  }
+
   /* about-section */
 
   .about-section .container {
@@ -719,6 +742,18 @@
   }
 }
 
+@media (max-width: 710px) {
+  /* carousel-section */
+
+  .carousel-section {
+    padding: 55px 0;
+  }
+
+  .carousel-section .container {
+    display: none;
+  }
+}
+
 @media (max-width: 570px) {
   /* main-section */
 
@@ -728,6 +763,16 @@
 
   .main-sec-info-container h1 {
     width: 100%;
+  }
+
+  /* carousel-section */
+
+  .carousel-section {
+    padding: 55px 0;
+  }
+
+  .carousel-section .container {
+    display: none;
   }
 
   /* about-section */
